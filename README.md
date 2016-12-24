@@ -38,7 +38,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SsPK5mimgnk" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:100%;" src="https://www.youtube.com/embed/SsPK5mimgnk" frameborder="0" allowfullscreen></iframe>
 
 ```markdown
 Syntax highlighted code block
