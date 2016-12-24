@@ -40,7 +40,7 @@ To load a custom URL you have to edit _remoteURL.conf_ placing your URL in the f
 
 To edit the custom offline page you have to edit the contents of _local_, your _index.html_ must be in that folder.
 
-<span style="border-bottom: 1px solid #eee;height:10px;width:100%;"></span>
+<span style="border-bottom: 1px solid #eee;height:10px;width:100%;"> </span>
 
 ### Video
 
@@ -48,7 +48,7 @@ To edit the custom offline page you have to edit the contents of _local_, your _
 
 
 
-<span style="border-bottom: 1px solid #eee;height:10px;width:100%;"></span>
+<span style="border-bottom: 1px solid #eee;height:10px;width:100%;"> idaus </span>
 
 
 ### How it's made
