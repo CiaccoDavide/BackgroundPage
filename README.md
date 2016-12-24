@@ -1,4 +1,4 @@
-Display an html page as your desktop background (on top of the icons, behind any window)
+Display an html page as your desktop background (over the icons, behind any window)
 
 > ⚠  For now only the source code for Qt Creator is avaiable.
 >
