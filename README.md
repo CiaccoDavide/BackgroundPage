@@ -1,3 +1,7 @@
+[http://ciaccodavi.de/BackgroundPage](http://ciaccodavi.de/BackgroundPage)
+
+[HERE YOU'LL FIND MORE INFOS, BETTER FORMATTING, A WORKING VIDEO](http://ciaccodavi.de/BackgroundPage)
+
 Display an html page as your desktop background (over the icons, behind any window)
 
 > ⚠  For now only the source code for Qt Creator is avaiable.
