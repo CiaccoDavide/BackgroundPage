@@ -1,4 +1,3 @@
-⚠
 
 > ⚠  For now only the source code for Qt Creator is avaiable.
 >
@@ -28,6 +27,7 @@ This application will not appear into the "alt+tab selector".
 
 Clicking on the _BackgroundPage_ is like clicking on the desktop: focus on any window will be lost but the BackgroundPage will remain behind them.
 
+---
 
 ### Usage
 
@@ -40,11 +40,16 @@ To load a custom URL you have to edit _remoteURL.conf_ placing your URL in the f
 
 To edit the custom offline page you have to edit the contents of _local_, your _index.html_ must be in that folder.
 
+<span style="border-bottom: 1px solid #eee;height:10px;width:100%;"></span>
+
 ### Video
 
 <iframe style="width:100%;height: 400px;overflow: hidden;border-radius:5px;border:1px solid #ddd;box-shadow:0 0 6px #666;" src="https://www.youtube.com/embed/SsPK5mimgnk" frameborder="0" allowfullscreen></iframe>
 
-###   
+
+
+<span style="border-bottom: 1px solid #eee;height:10px;width:100%;"></span>
+
 
 ### How it's made
 
