@@ -1,3 +1,4 @@
+⚠
 
 > ⚠  For now only the source code for Qt Creator is avaiable.
 >
@@ -43,3 +44,10 @@ To edit the custom offline page you have to edit the contents of _local_, your _
 
 <iframe style="width:100%;height: 400px;overflow: hidden;border-radius:5px;border:1px solid #ddd;box-shadow:0 0 6px #666;" src="https://www.youtube.com/embed/SsPK5mimgnk" frameborder="0" allowfullscreen></iframe>
 
+###   
+
+### How it's made
+
+I programmed **BackgroundPage** in C++ using Qt Creator 4.1.0 which is based on Qt 5.7.0.
+
+Until now this has been tested only on Windows 10 64bit.
