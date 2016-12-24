@@ -1,12 +1,44 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CiaccoDavide/BackgroundPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+```markdown
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ ⚠  For now only the source code for Qt Creator is avaiable.
+ ⚠  I still have to deploy a standalone build! 
 
-### Markdown
+```
+
+## BackgroundPage
+
+I created **_BackgroundPage_** because I felt the need for an interactive desktop background.
+
+I didn't found anything that would satisfy me: Rainmeter (wich is awesome if properly configured) felt linke an overkill, Windows decided to drop the old Active Desktop system and the only application similar to mine is hosted on one of those sketchy _"dowload the downloader to install the installer to download the application"_ type of websites.
+
+I probably didn't search deeply enough, maybe something like **_BackgroundPage_** already exists, I just felt the need to write my own program in Qt.
+
+_I never used Qt before, so please be gentle! **Constructive criticism is always welcome.**_
+
+### Behavior
+
+You can choose the URL of the page that you want to display.
+
+If your system is offline, a local page (that you can customize) will be loaded instead.
+
+The _BackgroundPage_ will stay behind any open window. (but will still cover the desktop and its icons)
+
+Clicking the "show desktop" button will work as intended, so that you will be able to interact with the desktop icons.
+
+This application will not appear into the "alt+tab selector".
+
+Clicking on the _BackgroundPage_ is like clicking on the desktop: focus on any window will be lost but the BackgroundPage will remain behind them.
+
+
+### Usage
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SsPK5mimgnk" frameborder="0" allowfullscreen></iframe>
 
 ```markdown
 Syntax highlighted code block
@@ -27,11 +59,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CiaccoDavide/BackgroundPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
