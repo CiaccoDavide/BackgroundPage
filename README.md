@@ -1,3 +1,6 @@
+# BackgroundPage
+Display an html page as your desktop background (on top of the icons, behind any window)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CiaccoDavide/BackgroundPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
