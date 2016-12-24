@@ -1,6 +1,6 @@
 Display an html page as your desktop background (over the icons, behind any window)
 
-> ⚠  For now only the source code for Qt Creator is avaiable.
+> ⚠  Right now only the source code for Qt Creator is avaiable.
 >
 > ⚠  I still have to deploy a standalone build! 
 
