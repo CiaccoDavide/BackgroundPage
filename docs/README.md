@@ -1,3 +1,7 @@
+[Download the latest release!](https://github.com/CiaccoDavide/BackgroundPage/releases) (v1.0)
+
+---
+
 Display an html page as your desktop background (over the icons, behind any window)
 
 > ⚠  Right now only the source code for Qt Creator is avaiable.
