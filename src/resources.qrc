@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>BackgroundPageResources/remoteURL.conf</file>
-        <file>BackgroundPageResources/local/index.html</file>
-        <file>BackgroundPageResources/local/css/style.css</file>
-        <file>BackgroundPageResources/local/js/index.js</file>
-    </qresource>
-</RCC>

@@ -9,6 +9,3 @@ INSTALLS += target
 
 HEADERS += \
     backgroundpagebrowser.h
-
-RESOURCES += \
-    resources.qrc

@@ -8,7 +8,6 @@ int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
 
-  //  qDebug() << "App path : " << app.applicationDirPath();
     // this will be the widget with the webview that will display the desired page
     BackgroundPageBrowser backgroundPage;
 
@@ -26,13 +25,13 @@ int main(int argc, char *argv[])
     // apply flags to the backgroundPage window to make it borderless and limit interaction
     backgroundPage.setWindowFlags(
                  backgroundPage.windowFlags() // get the current flags
+                |Qt::WindowDoesNotAcceptFocus
+                |Qt::WindowSystemMenuHint
                 |Qt::FramelessWindowHint
                 |Qt::SubWindow
+                |Qt::ToolTip
                 |Qt::Widget
                 |Qt::Window
-                |Qt::WindowSystemMenuHint
-                |Qt::WindowDoesNotAcceptFocus
-                |Qt::ToolTip
     );
 
     // resize the backgroundPage to fill the screen

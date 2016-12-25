@@ -1,5 +1,6 @@
 #include "backgroundpagebrowser.h"
 #include <QWebEngineView>
+#include <QApplication>
 #include <QTextStream>
 #include <QVBoxLayout>
 #include <QIODevice>
@@ -21,7 +22,7 @@ BackgroundPageBrowser::BackgroundPageBrowser(QWidget *parent) : QWidget(parent)
     browser->page()->setBackgroundColor(Qt::transparent);
 
     // if a connection is avaiable load the url from file
-    QFile file(":/BackgroundPageResources/remoteURL.conf");
+    QFile file(QApplication::applicationDirPath()+"/BackgroundPageResources/remoteURL.conf");
 
     // the string where the url will be stored
     QString urlString = "";
@@ -43,7 +44,7 @@ BackgroundPageBrowser::BackgroundPageBrowser(QWidget *parent) : QWidget(parent)
             connect(browser, SIGNAL(loadFinished(bool)), SLOT(onLoadFinished(bool)));
 
             // load the desired web page
-            browser->load(QUrl(urlString+"?asd"));
+            browser->load(QUrl(urlString+"?ad"));
         }
         // close the file
         file.close();
@@ -74,6 +75,6 @@ void BackgroundPageBrowser::onLoadFinished(bool success)
     if ( ! success )
     {
         // load the desired local page
-        browser->load(QUrl("qrc:/BackgroundPageResources/local/index.html"));
+        browser->load(QUrl("file:///"+QApplication::applicationDirPath()+"/BackgroundPageResources/local/index.html"));
     }
 }
