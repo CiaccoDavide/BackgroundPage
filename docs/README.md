@@ -4,9 +4,9 @@
 
 Display an html page as your desktop background (over the icons, behind any window)
 
-> ⚠  Right now only the source code for Qt Creator is avaiable.
->
-> ⚠  I still have to deploy a standalone build! 
+> ⚠  TODO:
+
+> * system tray icon with options (like a "change remote url" option, an "autorun at startup" checkbox and a button to quit the application without the need to use the task manager)
 
 ## BackgroundPage
 
