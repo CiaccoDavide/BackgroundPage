@@ -70,7 +70,7 @@ Until now this has been tested only on Windows 10 64bit.
 
 #### Linux Port
 
-It's important to change the WindowFlags if you want to deploy this program on a linux system:
+On some linux systems (x11) the application's window could not work as intended, to make it work just edit the WindowFlags like this:
 
 ```
 // inside "main.cpp"
@@ -84,20 +84,4 @@ backgroundPage.setWindowFlags(
                 |Qt::Window
                 |Qt::WindowStaysOnBottomHint
     );
-```
-
-while the WindowFlags on a Windows system should be:
-
-```
-// inside "main.cpp"
-backgroundPage.setWindowFlags(
-                 backgroundPage.windowFlags() // get the current flags
-                |Qt::WindowDoesNotAcceptFocus
-                |Qt::WindowSystemMenuHint
-                |Qt::FramelessWindowHint
-                |Qt::SubWindow
-                |Qt::ToolTip
-                |Qt::Widget
-                |Qt::Window
-);
 ```
