@@ -8,6 +8,8 @@ Display an html page as your desktop background (over the icons, behind any wind
 
 > * system tray icon with options (like a "change remote url" option, an "autorun at startup" checkbox and a button to quit the application without the need to use the task manager)
 
+> * linux port (macOS too?)
+
 ## BackgroundPage
 
 I created **BackgroundPage** because I felt the need for an interactive desktop background.
