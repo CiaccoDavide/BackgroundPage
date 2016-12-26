@@ -64,7 +64,11 @@ To edit the custom offline page you have to edit the contents of _local_, your _
 
 I programmed **BackgroundPage** in C++ using Qt Creator 4.1.0 which is based on Qt 5.7.0.
 
+The Qt WebEngine core is based on the Chromium Project.
+
 Until now this has been tested only on Windows 10 64bit.
+
+I tested it also on Linux Mint and Lubuntu, but I failed to deploy a standalone release build...
 
 ---
 
