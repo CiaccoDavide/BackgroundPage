@@ -85,3 +85,21 @@ backgroundPage.setWindowFlags(
                 |Qt::WindowStaysOnBottomHint
     );
 ```
+
+#### Screenshots and background urls
+
+_Send me your urls and screenshots!_ [ciaccodavide+backgroundpage@gmail.com](mailto:ciaccodavide+backgroundpage@gmail.com)
+
+---
+
+[Her - OS1 loading](http://ciaccodavi.de/her/)
+
+![](http://i.imgur.com/HFKgBPp.gif)
+
+![](http://i.imgur.com/5pJ2pIw.gif)
+
+---
+
+[Particles](http://ciaccodavi.de/particles/)
+
+![](http://i.imgur.com/2ur29kA.gif)
