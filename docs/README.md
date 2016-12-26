@@ -96,14 +96,18 @@ _Send me your urls and screenshots!_ [ciaccodavide+backgroundpage@gmail.com](mai
 
 ---
 
-[Her - OS1 loading](http://ciaccodavi.de/her/)
+[Her - OS1 Loading](http://ciaccodavi.de/her/)
 
 ![](http://i.imgur.com/HFKgBPp.gif)
 
 ![](http://i.imgur.com/5pJ2pIw.gif)
+
+_credits: [Siyoung Park's "Her - OS1 Loading"](https://codepen.io/psyonline/pen/yayYWg)_
 
 ---
 
 [Particles](http://ciaccodavi.de/particles/)
 
 ![](http://i.imgur.com/2ur29kA.gif)
+
+_credits: [Justin Windle's "30,000 Particles"](https://codepen.io/soulwire/pen/Ffvlo)_
