@@ -98,9 +98,9 @@ _Send me your urls and screenshots!_ [ciaccodavide+backgroundpage@gmail.com](mai
 
 [Her - OS1 Loading](http://ciaccodavi.de/her/)
 
-<a hreft="http://ciaccodavi.de/her/">![](http://i.imgur.com/HFKgBPp.gif)</a>
+<a href="http://ciaccodavi.de/her/">![](http://i.imgur.com/HFKgBPp.gif)</a>
 
-<a hreft="http://ciaccodavi.de/her/">![](http://i.imgur.com/5pJ2pIw.gif)</a>
+<a href="http://ciaccodavi.de/her/">![](http://i.imgur.com/5pJ2pIw.gif)</a>
 
 _credits: [Siyoung Park's "Her - OS1 Loading"](https://codepen.io/psyonline/pen/yayYWg)_
 
@@ -108,7 +108,7 @@ _credits: [Siyoung Park's "Her - OS1 Loading"](https://codepen.io/psyonline/pen/
 
 [Particles](http://ciaccodavi.de/particles/)
 
-<a hreft="http://ciaccodavi.de/particles/">![](http://i.imgur.com/2ur29kA.gif)</a>
+<a href="http://ciaccodavi.de/particles/">![](http://i.imgur.com/2ur29kA.gif)</a>
 
 _credits: [Justin Windle's "30,000 Particles"](https://codepen.io/soulwire/pen/Ffvlo)_
 
@@ -116,6 +116,6 @@ _credits: [Justin Windle's "30,000 Particles"](https://codepen.io/soulwire/pen/F
 
 [Winter with clock](http://ciaccodavi.de/backgrounds/winter/)
 
-<a hreft="http://ciaccodavi.de/backgrounds/winter/">![](http://i.imgur.com/LZZrmM3.png)</a>
+<a href="http://ciaccodavi.de/backgrounds/winter/">![](http://i.imgur.com/LZZrmM3.png)</a>
 
 _credits: [/u/bozarcking's "Sunset over the mountains of Las Vegas"](https://www.reddit.com/r/EarthPorn/comments/5khkl9/sunset_over_the_mountains_of_las_vegas_2500x1668/)_
