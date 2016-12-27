@@ -111,3 +111,11 @@ _credits: [Siyoung Park's "Her - OS1 Loading"](https://codepen.io/psyonline/pen/
 ![](http://i.imgur.com/2ur29kA.gif)
 
 _credits: [Justin Windle's "30,000 Particles"](https://codepen.io/soulwire/pen/Ffvlo)_
+
+---
+
+[Winter with clock](http://ciaccodavi.de/backgrounds/winter/)
+
+![](http://i.imgur.com/LZZrmM3.png)
+
+_credits: [/u/bozarcking's "Sunset over the mountains of Las Vegas"](https://www.reddit.com/r/EarthPorn/comments/5khkl9/sunset_over_the_mountains_of_las_vegas_2500x1668/)_
