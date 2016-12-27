@@ -96,7 +96,7 @@ _Send me your urls and screenshots!_ [ciaccodavide+backgroundpage@gmail.com](mai
 
 ---
 
-[Her - OS1 Loading](http://ciaccodavi.de/her/)
+[Her - OS1 Loading](http://ciaccodavi.de/her/){:target="_blank"}
 
 <a href="http://ciaccodavi.de/her/" target="_blank">![](http://i.imgur.com/HFKgBPp.gif)</a>
 
@@ -106,7 +106,7 @@ _credits: [Siyoung Park's "Her - OS1 Loading"](https://codepen.io/psyonline/pen/
 
 ---
 
-[Particles](http://ciaccodavi.de/particles/)
+[Particles](http://ciaccodavi.de/particles/){:target="_blank"}
 
 <a href="http://ciaccodavi.de/particles/" target="_blank">![](http://i.imgur.com/2ur29kA.gif)</a>
 
