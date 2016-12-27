@@ -98,7 +98,7 @@ _Send me your urls and screenshots!_ [ciaccodavide+backgroundpage@gmail.com](mai
 
 [Her - OS1 Loading](http://ciaccodavi.de/her/)
 
-![](http://i.imgur.com/HFKgBPp.gif)
+[![](http://i.imgur.com/HFKgBPp.gif)](http://ciaccodavi.de/her/)
 
 ![](http://i.imgur.com/5pJ2pIw.gif)
 
